@@ -1,1 +1,1 @@
-Homepage repo for (http://dhbw-mannheim-wi.github.io/)
+Homepage repo for http://dhbw-mannheim-wi.github.io/
